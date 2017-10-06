@@ -1,4 +1,4 @@
 movies:
   pagesize: 4
 s3:
-  endpoint: htt://s3.amazonaws.com
+  endpoint: //s4.amazonaws.com
