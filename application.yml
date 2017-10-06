@@ -1,2 +1,4 @@
 movies:
   pagesize: 2
+s3:
+  endpoint: http://s3.amazonaws.com
