@@ -2,4 +2,4 @@ movies:
   pagesize: 4
 s3:
  bucketname: cf-ab6640fa-da27-4b0b-960b-21f6e038a946
- endpoint: amazonaws.com 
+ endpoint: http://s3.amazonaws.com
