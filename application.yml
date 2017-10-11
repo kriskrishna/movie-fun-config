@@ -1,5 +1,5 @@
 movies:
-  pagesize: 10
+  pagesize: 5
 s3:
  bucketName: cf-ab6640fa-da27-4b0b-960b-21f6e038a
  #bucketName: cf-ab6640fa-da27-4b0b-960b-21f6e038a946
