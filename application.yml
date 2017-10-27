@@ -4,6 +4,10 @@ spring:
       enabled: false
 movies:
   pagesize: 10
+
+plays:
+  pagesize: 10
+  
 s3:
   bucketName: cf-ab6640fa-da27-4b0b-960b-21f6e038a
   #bucketName: cf-ab6640fa-da27-4b0b-960b-21f6e038a946
