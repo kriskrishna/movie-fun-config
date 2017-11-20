@@ -3,7 +3,7 @@ spring:
     servo:
       enabled: false
 movies:
-  pagesize: 5
+  pagesize: 10
 
 plays:
   pagesize: 10
